@@ -112,6 +112,6 @@
 
 ## Running instructions
 #### python -m venv venv -> venv\Scripts\activate
-#### pip install requirements.py
+#### pip install -r requirements.txt
 #### docker run --name library_project -e MYSQL_ROOT_PASSWORD=root -e MYSQL_DATABASE=library_db -P 3306:3306 -d mysql:8
 #### python main.py 
