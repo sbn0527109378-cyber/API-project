@@ -1336,3 +1336,22 @@
 2026-06-14 20:29:56,233 | WARNING | User updating increase the borrow by 1 to mysql
 2026-06-14 20:29:56,249 | INFO | The borrow was updated successfully
 2026-06-14 20:30:11,723 | DEBUG | Using selector: SelectSelector
+2026-06-14 21:48:27,393 | DEBUG | Using selector: SelectSelector
+2026-06-14 21:50:46,174 | DEBUG | Using selector: SelectSelector
+2026-06-14 21:50:48,074 | DEBUG | Using selector: SelectSelector
+2026-06-14 21:50:52,701 | DEBUG | Using selector: SelectSelector
+2026-06-14 21:54:09,200 | DEBUG | Using selector: SelectSelector
+2026-06-14 21:55:23,768 | DEBUG | Using selector: SelectSelector
+2026-06-14 21:55:25,958 | DEBUG | Using selector: SelectSelector
+2026-06-14 21:55:31,816 | DEBUG | Using selector: SelectSelector
+2026-06-14 21:56:37,236 | DEBUG | Using selector: SelectSelector
+2026-06-14 21:56:45,522 | DEBUG | Using selector: SelectSelector
+2026-06-14 21:56:54,329 | DEBUG | Using selector: SelectSelector
+2026-06-14 21:57:51,445 | DEBUG | Using selector: SelectSelector
+2026-06-14 21:58:03,959 | DEBUG | Using selector: SelectSelector
+2026-06-14 22:05:31,224 | DEBUG | User wants to create a new book
+2026-06-14 22:05:31,443 | WARNING | User adds a new book to mysql
+2026-06-14 22:05:31,472 | INFO | The new book was added successfully
+2026-06-14 22:06:35,017 | DEBUG | User wants to create a new book
+2026-06-14 22:06:35,049 | WARNING | User adds a new book to mysql
+2026-06-14 22:14:49,331 | DEBUG | Using selector: SelectSelector
