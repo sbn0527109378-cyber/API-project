@@ -1418,3 +1418,78 @@
 2026-06-14 23:23:18,244 | WARNING | User updating a book to mysql
 2026-06-14 23:23:18,249 | INFO | The book was updated successfully
 2026-06-14 23:24:13,285 | DEBUG | Using selector: SelectSelector
+2026-06-14 23:28:24,379 | DEBUG | Using selector: SelectSelector
+2026-06-14 23:28:28,955 | DEBUG | User wants to update a book
+2026-06-14 23:28:29,010 | WARNING | User updating a book to mysql
+2026-06-14 23:28:48,708 | DEBUG | Using selector: SelectSelector
+2026-06-14 23:28:55,767 | DEBUG | User wants to update a book
+2026-06-14 23:28:55,831 | WARNING | User updating a book to mysql
+2026-06-14 23:28:55,838 | INFO | The book was updated successfully
+2026-06-14 23:36:18,002 | DEBUG | User wants to update a book
+2026-06-14 23:36:18,044 | WARNING | User updating a book to mysql
+2026-06-14 23:36:18,051 | INFO | The book was updated successfully
+2026-06-14 23:36:44,844 | DEBUG | User wants to update a book
+2026-06-14 23:36:44,901 | WARNING | User updating a book to mysql
+2026-06-14 23:36:44,906 | INFO | The book was updated successfully
+2026-06-14 23:37:38,082 | DEBUG | User wants to update a book
+2026-06-14 23:37:38,189 | WARNING | User updating a book to mysql
+2026-06-14 23:37:38,202 | INFO | The book was updated successfully
+2026-06-14 23:37:57,670 | DEBUG | User wants to update a book
+2026-06-14 23:37:57,722 | WARNING | User updating a book to mysql
+2026-06-14 23:37:57,729 | INFO | The book was updated successfully
+2026-06-14 23:39:36,578 | DEBUG | User wants to update a book
+2026-06-14 23:39:36,633 | WARNING | User updating a book to mysql
+2026-06-14 23:39:36,639 | INFO | The book was updated successfully
+2026-06-14 23:39:49,702 | DEBUG | User wants to update a book
+2026-06-14 23:39:49,739 | WARNING | User updating a book to mysql
+2026-06-14 23:39:49,746 | INFO | The book was updated successfully
+2026-06-14 23:40:44,058 | DEBUG | User wants to update a book
+2026-06-14 23:40:44,161 | WARNING | User updating a book to mysql
+2026-06-14 23:40:44,169 | INFO | The book was updated successfully
+2026-06-14 23:40:57,100 | DEBUG | User wants to update a book
+2026-06-14 23:40:57,153 | WARNING | User updating a book to mysql
+2026-06-14 23:40:57,159 | INFO | The book was updated successfully
+2026-06-14 23:41:05,259 | DEBUG | User wants to update a book
+2026-06-14 23:41:05,295 | WARNING | User updating a book to mysql
+2026-06-14 23:41:05,299 | INFO | The book was updated successfully
+2026-06-14 23:41:46,804 | DEBUG | User wants to update a book
+2026-06-14 23:41:46,891 | WARNING | User updating a book to mysql
+2026-06-14 23:41:46,898 | INFO | The book was updated successfully
+2026-06-15 00:09:38,125 | DEBUG | User wants to update a book
+2026-06-15 00:09:38,181 | WARNING | User updating a book to mysql
+2026-06-15 00:09:38,201 | INFO | The book was updated successfully
+2026-06-15 00:09:46,587 | DEBUG | User wants to update a book
+2026-06-15 00:09:46,629 | WARNING | User updating a book to mysql
+2026-06-15 00:09:58,991 | DEBUG | User wants to update a book
+2026-06-15 00:09:59,058 | WARNING | User updating a book to mysql
+2026-06-15 00:10:56,257 | DEBUG | Using selector: SelectSelector
+2026-06-15 00:11:05,356 | DEBUG | User wants to update a book
+2026-06-15 00:11:18,166 | DEBUG | User wants to update a book
+2026-06-15 00:11:35,303 | DEBUG | User wants to update a book
+2026-06-15 00:11:39,594 | DEBUG | User wants to update a book
+2026-06-15 00:12:27,704 | DEBUG | User wants to update a book
+2026-06-15 00:12:29,795 | DEBUG | User wants to update a book
+2026-06-15 00:12:31,760 | DEBUG | User wants to update a book
+2026-06-15 00:12:54,961 | DEBUG | User wants to update a book
+2026-06-15 00:12:58,617 | DEBUG | User wants to update a book
+2026-06-15 00:14:09,806 | DEBUG | Using selector: SelectSelector
+2026-06-15 00:14:13,052 | DEBUG | Using selector: SelectSelector
+2026-06-15 00:14:14,917 | DEBUG | User wants to update a book
+2026-06-15 00:14:43,224 | DEBUG | Using selector: SelectSelector
+2026-06-15 00:14:45,869 | DEBUG | User wants to update a book
+2026-06-15 00:15:01,841 | DEBUG | Using selector: SelectSelector
+2026-06-15 00:16:34,252 | DEBUG | Using selector: SelectSelector
+2026-06-15 00:16:39,214 | DEBUG | Using selector: SelectSelector
+2026-06-15 00:16:46,091 | DEBUG | Using selector: SelectSelector
+2026-06-15 00:16:55,033 | DEBUG | Using selector: SelectSelector
+2026-06-15 00:17:02,222 | DEBUG | Using selector: SelectSelector
+2026-06-15 00:17:07,439 | DEBUG | Using selector: SelectSelector
+2026-06-15 00:17:19,025 | DEBUG | Using selector: SelectSelector
+2026-06-15 00:17:23,604 | DEBUG | Using selector: SelectSelector
+2026-06-15 00:17:34,585 | DEBUG | User wants to update a book
+2026-06-15 00:17:38,549 | DEBUG | User wants to update a book
+2026-06-15 00:17:38,750 | WARNING | User updating a book to mysql
+2026-06-15 00:17:38,772 | INFO | The book was updated successfully
+2026-06-15 00:17:59,232 | DEBUG | User wants to update a book
+2026-06-15 00:17:59,399 | WARNING | User updating a book to mysql
+2026-06-15 00:17:59,456 | INFO | The book was updated successfully

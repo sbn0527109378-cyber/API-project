@@ -59,15 +59,24 @@ class BookDB:
         logger.debug("User wants to update a book")
         conn = db_connection.connection()
         cursor = conn.cursor(dictionary=True)
-        sql = "UPDATE books SET title = %s, author = %s, genre = %s WHERE id = %s;"
-        values = body.title, body.author, body.genre, id
-        logger.warning("User updating a book to mysql")
-        cursor.execute(sql, values)
-        conn.commit()
+        sql = "SELECT id FROM books;"
+        cursor.execute(sql)
+        all_ids = cursor.fetchall()
+        is_exsist = [True for id1 in all_ids if id1["id"] == id]
+
+        if is_exsist:
+            sql = "UPDATE books SET title = %s, author = %s, genre = %s WHERE id = %s;"
+            values = body.title, body.author, body.genre, id
+            logger.warning("User updating a book to mysql")
+            cursor.execute(sql, values)
+            conn.commit()
+            logger.info("The book was updated successfully")
+            cursor.close()
+            conn.close()
+            return "The book was updated successfully"
         cursor.close()
         conn.close()
-        logger.info("The book was updated successfully")
-        return "The book was updated successfully"
+        raise KeyError
 
 
     # def set_available(id, val, member_id):

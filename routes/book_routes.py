@@ -20,6 +20,13 @@ def create_book(data: books.Book):
 def get_all_books():
     return book.get_all_books()
 
+@router.put("/{id}")
+def update_books(id: int, body: books.Book):
+    try:
+        return book.update_book(id, body)
+    except Exception as e:
+        raise HTTPException(status_code=422, detail=f"{e}")
+
 @router.get("/{id}")
 def book_by_id(id: int):
     try:
@@ -30,10 +37,6 @@ def book_by_id(id: int):
     except Exception as e:
         logger.error(e)
         raise HTTPException(status_code=400, detail=f"{e}")
-    
-@router.put("/{id}")
-def update_books(id: int, body: books.Book):
-    return book.update_book(id, body)
 
 @router.get("/{member_id}")
 def count_borrows_by_member(member_id: int):
