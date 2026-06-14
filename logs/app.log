@@ -1231,3 +1231,28 @@
 2026-06-14 19:58:47,038 | DEBUG | User wants to update a member
 2026-06-14 19:58:47,081 | WARNING | User updating a member to mysql
 2026-06-14 19:58:47,098 | INFO | The member was updated successfully
+2026-06-14 20:06:45,377 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:08:16,524 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:08:47,596 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:09:15,284 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:09:26,095 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:09:37,722 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:09:39,863 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:09:42,656 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:09:59,949 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:10:29,900 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:10:37,586 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:10:47,348 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:11:02,190 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:11:06,542 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:11:12,161 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:12:02,801 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:12:13,345 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:12:26,840 | DEBUG | User wants to update is_active=False
+2026-06-14 20:12:26,897 | WARNING | User updating is_active=False to mysql
+2026-06-14 20:12:57,495 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:12:59,213 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:13:03,994 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:13:13,843 | DEBUG | User wants to update is_active=False
+2026-06-14 20:13:13,902 | WARNING | User updating is_active=False to mysql
+2026-06-14 20:13:13,918 | INFO | The member was updated successfully

@@ -64,3 +64,18 @@ class MemberDB:
         conn.close()
         logger.info("The member was updated successfully")
         return "The member was updated successfully"
+    
+    @staticmethod
+    def deactivate_member(id):
+        logger.debug("User wants to update is_active=False")
+        conn = db_connection.connection()
+        cursor = conn.cursor(dictionary=True)
+        sql = "UPDATE members SET is_active = FALSE WHERE id = %s;"
+        values = id,
+        logger.warning("User updating is_active=False to mysql")
+        cursor.execute(sql, values)
+        conn.commit()
+        cursor.close()
+        conn.close()
+        logger.info("The member was updated successfully")
+        return "The member was updated successfully"
