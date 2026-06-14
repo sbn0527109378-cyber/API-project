@@ -15,3 +15,14 @@ def create_book(data: books.Book):
 @router.get("/")
 def get_all_books():
     return book.get_all_books()
+
+@router.get("/{id}")
+def book_by_id(id: int):
+    try:
+        return book.get_book_by_id(id)
+    except KeyError:
+        logger.error("id not found")
+        raise HTTPException(status_code=404, detail="id not found")
+    except Exception as e:
+        logger.error(e)
+        raise HTTPException(status_code=400, detail=f"{e}")
