@@ -1375,3 +1375,13 @@
 2026-06-14 22:39:10,165 | DEBUG | Using selector: SelectSelector
 2026-06-14 22:39:13,399 | DEBUG | Using selector: SelectSelector
 2026-06-14 22:39:17,116 | DEBUG | User wants to create a new book
+2026-06-14 23:03:02,602 | DEBUG | Using selector: SelectSelector
+2026-06-14 23:03:34,555 | DEBUG | User wants to create a new book
+2026-06-14 23:03:34,649 | WARNING | User adds a new book to mysql
+2026-06-14 23:04:08,369 | DEBUG | Using selector: SelectSelector
+2026-06-14 23:04:10,745 | DEBUG | Using selector: SelectSelector
+2026-06-14 23:04:14,587 | DEBUG | Using selector: SelectSelector
+2026-06-14 23:04:17,970 | DEBUG | User wants to create a new book
+2026-06-14 23:04:18,033 | WARNING | User adds a new book to mysql
+2026-06-14 23:04:18,061 | INFO | The new book was added successfully
+2026-06-14 23:04:25,511 | DEBUG | User wants to create a new book

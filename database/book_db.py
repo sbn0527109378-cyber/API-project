@@ -11,9 +11,9 @@ class BookDB:
         logger.debug("User wants to create a new book")
         conn = db_connection.connection()
         cursor = conn.cursor(dictionary=True)
-        sql = "INSERT INTO books (title, author, genre) VALUES (%s, %s, %s);"
         if data["genre"] not in ["Fiction", "Non-Fiction", "Science", "History", "Other"]:
             raise KeyError
+        sql = "INSERT INTO books (title, author, genre) VALUES (%s, %s, %s);"
         values = data["title"], data["author"], data["genre"]
         logger.warning("User adds a new book to mysql")
         cursor.execute(sql, values)
