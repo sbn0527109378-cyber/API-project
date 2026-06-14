@@ -114,3 +114,5 @@ class BookDB:
         conn.close()
         logger.info("returns count books by genre")
         return count_books_by_genre
+    
+    
