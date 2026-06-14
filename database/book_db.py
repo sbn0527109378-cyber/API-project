@@ -90,10 +90,14 @@ class BookDB:
         sql = "SELECT COUNT(*) FROM books;"
         cursor.execute(sql)
         count_all_books = cursor.fetchone()
-        sql1 = "SELECT COUNT(is_available) AS available FROM books;"
+        sql1 = "SELECT SUM(is_available = 1) FROM books;"
         cursor.execute(sql1)
+        count_all_books += cursor.fetchone()
+        sql2 = "SELECT COUNT(*) FROM books WHERE is_available = 0;"
+        cursor.execute(sql2)
         count_all_books += cursor.fetchone()
         cursor.close()
         conn.close()
         logger.info("returns count all books")
         return count_all_books
+    
