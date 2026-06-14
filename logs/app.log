@@ -404,3 +404,481 @@
 2026-06-14 16:17:11,652 | DEBUG | Using selector: SelectSelector
 2026-06-14 16:17:13,605 | DEBUG | Using selector: SelectSelector
 2026-06-14 16:20:53,836 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:29:54,047 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:31:20,034 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:33:42,055 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:37:50,922 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:38:29,220 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:39:42,810 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:39:55,115 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:39:56,520 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:39:57,961 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:40:08,769 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:40:13,861 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:40:28,165 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:40:29,505 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:40:31,273 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:40:35,054 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:40:36,346 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:41:03,072 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:41:06,743 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:41:08,028 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:41:11,182 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:41:24,649 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:41:28,526 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:41:36,971 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:41:39,570 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:41:41,262 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:43:15,339 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:43:18,672 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:43:30,158 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:43:32,400 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:43:34,032 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:43:36,972 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:43:40,217 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:43:42,093 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:43:44,454 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:44:04,425 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:44:09,527 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:46:10,390 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:46:13,317 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:46:14,612 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:49:55,734 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:50:07,098 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:51:00,595 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:52:15,518 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:52:16,846 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:52:20,688 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:52:43,028 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:52:44,782 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:52:48,710 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:52:48,793 | DEBUG | total books
+2026-06-14 16:52:48,912 | INFO | return count all books
+2026-06-14 16:54:03,469 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:54:24,677 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:54:32,896 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:54:42,581 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:58:12,905 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:58:19,378 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:58:20,733 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:58:23,757 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:58:32,176 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:58:46,445 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:58:51,078 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:59:00,430 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:59:09,769 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:59:19,962 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:59:23,450 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:59:25,524 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:59:27,158 | DEBUG | Using selector: SelectSelector
+2026-06-14 16:59:28,544 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:01:54,898 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:03:10,562 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:03:13,821 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:03:33,619 | DEBUG | total books
+2026-06-14 17:03:33,666 | INFO | returns count all books
+2026-06-14 17:04:05,311 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:04:06,887 | DEBUG | total books
+2026-06-14 17:04:06,920 | INFO | returns count all books
+2026-06-14 17:04:33,836 | DEBUG | total books
+2026-06-14 17:04:33,864 | INFO | returns count all books
+2026-06-14 17:04:45,361 | DEBUG | total books
+2026-06-14 17:04:45,417 | INFO | returns count all books
+2026-06-14 17:05:51,562 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:05:56,310 | DEBUG | total books available
+2026-06-14 17:05:56,359 | INFO | returns total books available
+2026-06-14 17:06:09,885 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:08:37,350 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:08:42,589 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:08:54,434 | DEBUG | total books
+2026-06-14 17:08:54,535 | INFO | returns count all books
+2026-06-14 17:09:30,875 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:09:30,952 | DEBUG | total books
+2026-06-14 17:09:30,982 | INFO | returns count all books
+2026-06-14 17:09:38,379 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:10:06,419 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:10:07,440 | DEBUG | total books
+2026-06-14 17:10:07,497 | INFO | returns count all books
+2026-06-14 17:11:38,437 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:11:38,778 | DEBUG | total books
+2026-06-14 17:11:38,816 | INFO | returns count all books
+2026-06-14 17:11:41,081 | DEBUG | total books
+2026-06-14 17:11:41,135 | INFO | returns count all books
+2026-06-14 17:12:23,414 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:12:23,506 | DEBUG | total books
+2026-06-14 17:12:23,538 | INFO | returns count all books
+2026-06-14 17:12:26,387 | DEBUG | total books
+2026-06-14 17:12:26,432 | INFO | returns count all books
+2026-06-14 17:12:31,996 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:12:53,203 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:12:56,596 | DEBUG | total books
+2026-06-14 17:12:56,651 | INFO | returns count all books
+2026-06-14 17:13:01,821 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:13:46,260 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:13:48,395 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:13:53,411 | DEBUG | total books
+2026-06-14 17:13:53,504 | INFO | returns count all books
+2026-06-14 17:13:59,996 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:14:00,079 | DEBUG | total books
+2026-06-14 17:14:00,106 | INFO | returns count all books
+2026-06-14 17:14:05,238 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:14:06,916 | DEBUG | total books
+2026-06-14 17:14:06,954 | INFO | returns count all books
+2026-06-14 17:14:12,901 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:14:12,987 | DEBUG | total books
+2026-06-14 17:14:13,020 | INFO | returns count all books
+2026-06-14 17:14:15,444 | DEBUG | total books
+2026-06-14 17:14:15,469 | INFO | returns count all books
+2026-06-14 17:14:16,722 | DEBUG | total books
+2026-06-14 17:14:16,750 | INFO | returns count all books
+2026-06-14 17:14:18,308 | DEBUG | total books
+2026-06-14 17:14:18,413 | INFO | returns count all books
+2026-06-14 17:14:29,144 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:14:31,850 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:14:31,940 | DEBUG | total books
+2026-06-14 17:14:31,975 | INFO | returns count all books
+2026-06-14 17:15:17,203 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:15:20,564 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:15:26,651 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:15:28,346 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:15:33,530 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:15:38,096 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:15:39,661 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:15:40,574 | DEBUG | total books
+2026-06-14 17:15:40,609 | INFO | returns count all books
+2026-06-14 17:16:17,364 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:16:18,716 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:16:21,970 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:16:22,043 | DEBUG | total books
+2026-06-14 17:16:22,074 | INFO | returns count all books
+2026-06-14 17:16:38,223 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:16:54,920 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:16:56,033 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:17:20,086 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:17:20,245 | DEBUG | total books
+2026-06-14 17:17:20,293 | INFO | returns count all books
+2026-06-14 17:17:32,186 | DEBUG | total books
+2026-06-14 17:17:32,211 | INFO | returns count all books
+2026-06-14 17:22:47,657 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:22:55,321 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:22:56,783 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:23:04,979 | DEBUG | total books
+2026-06-14 17:23:05,090 | INFO | returns count all books
+2026-06-14 17:23:56,853 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:24:01,853 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:24:06,647 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:24:09,463 | DEBUG | total books
+2026-06-14 17:24:09,527 | INFO | returns count all books
+2026-06-14 17:24:09,527 | DEBUG | total books available
+2026-06-14 17:24:09,631 | INFO | returns total books available
+2026-06-14 17:24:24,746 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:24:28,924 | DEBUG | total books
+2026-06-14 17:24:28,970 | INFO | returns count all books
+2026-06-14 17:24:28,970 | DEBUG | total books available
+2026-06-14 17:24:28,996 | INFO | returns total books available
+2026-06-14 17:24:42,254 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:24:42,371 | DEBUG | total books
+2026-06-14 17:24:42,400 | INFO | returns count all books
+2026-06-14 17:24:42,400 | DEBUG | total books available
+2026-06-14 17:24:42,422 | INFO | returns total books available
+2026-06-14 17:25:18,083 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:25:22,359 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:25:24,530 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:25:24,684 | DEBUG | total books
+2026-06-14 17:25:24,711 | INFO | returns count all books
+2026-06-14 17:25:24,711 | DEBUG | total books available
+2026-06-14 17:25:24,730 | INFO | returns total books available
+2026-06-14 17:25:31,454 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:25:31,627 | DEBUG | total books
+2026-06-14 17:25:31,664 | INFO | returns count all books
+2026-06-14 17:25:31,664 | DEBUG | total books available
+2026-06-14 17:25:31,688 | INFO | returns total books available
+2026-06-14 17:25:35,330 | DEBUG | total books
+2026-06-14 17:25:35,365 | INFO | returns count all books
+2026-06-14 17:25:35,365 | DEBUG | total books available
+2026-06-14 17:25:35,394 | INFO | returns total books available
+2026-06-14 17:25:36,786 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:25:39,272 | DEBUG | total books
+2026-06-14 17:25:39,328 | INFO | returns count all books
+2026-06-14 17:25:39,328 | DEBUG | total books available
+2026-06-14 17:25:39,360 | INFO | returns total books available
+2026-06-14 17:25:45,782 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:25:45,867 | DEBUG | total books
+2026-06-14 17:25:45,894 | INFO | returns count all books
+2026-06-14 17:25:45,895 | DEBUG | total books available
+2026-06-14 17:25:45,998 | INFO | returns total books available
+2026-06-14 17:25:59,310 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:26:00,751 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:26:00,840 | DEBUG | total books
+2026-06-14 17:26:00,929 | INFO | returns count all books
+2026-06-14 17:26:00,929 | DEBUG | total books available
+2026-06-14 17:26:00,948 | INFO | returns total books available
+2026-06-14 17:26:09,409 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:26:09,589 | DEBUG | total books
+2026-06-14 17:26:09,621 | INFO | returns count all books
+2026-06-14 17:26:09,621 | DEBUG | total books available
+2026-06-14 17:26:09,653 | INFO | returns total books available
+2026-06-14 17:26:14,646 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:26:52,767 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:26:54,104 | DEBUG | total books
+2026-06-14 17:26:54,135 | INFO | returns count all books
+2026-06-14 17:26:54,135 | DEBUG | total books available
+2026-06-14 17:26:54,153 | INFO | returns total books available
+2026-06-14 17:27:00,312 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:27:11,508 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:27:17,407 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:27:22,214 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:27:26,471 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:27:29,948 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:27:31,460 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:27:42,780 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:27:44,067 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:27:46,709 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:27:48,018 | DEBUG | total books
+2026-06-14 17:27:48,128 | INFO | returns count all books
+2026-06-14 17:27:48,128 | DEBUG | total books available
+2026-06-14 17:27:48,147 | INFO | returns total books available
+2026-06-14 17:28:19,196 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:28:20,641 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:29:41,640 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:29:41,748 | DEBUG | total books
+2026-06-14 17:29:41,783 | INFO | returns count all books
+2026-06-14 17:29:41,783 | DEBUG | total books available
+2026-06-14 17:29:41,811 | INFO | returns total books available
+2026-06-14 17:29:52,578 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:30:09,927 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:30:10,060 | DEBUG | total books
+2026-06-14 17:30:10,111 | INFO | returns count all books
+2026-06-14 17:30:10,112 | DEBUG | total books available
+2026-06-14 17:30:10,131 | INFO | returns total books available
+2026-06-14 17:30:22,418 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:30:22,509 | DEBUG | total books
+2026-06-14 17:30:22,596 | INFO | returns count all books
+2026-06-14 17:30:22,596 | DEBUG | total books available
+2026-06-14 17:30:22,617 | INFO | returns total books available
+2026-06-14 17:32:26,929 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:32:28,282 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:32:32,222 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:33:02,264 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:33:03,700 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:33:10,465 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:33:14,184 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:33:30,978 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:33:32,533 | DEBUG | total books
+2026-06-14 17:33:32,568 | INFO | returns count all books
+2026-06-14 17:33:32,568 | DEBUG | total books available
+2026-06-14 17:33:32,585 | INFO | returns total books available
+2026-06-14 17:33:58,644 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:34:00,246 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:34:00,384 | DEBUG | total books
+2026-06-14 17:34:00,415 | INFO | returns count all books
+2026-06-14 17:34:00,415 | DEBUG | total books available
+2026-06-14 17:34:00,444 | INFO | returns total books available
+2026-06-14 17:34:11,339 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:34:13,706 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:34:18,483 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:34:19,858 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:34:24,897 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:34:24,978 | DEBUG | total books
+2026-06-14 17:34:25,008 | INFO | returns count all books
+2026-06-14 17:34:25,009 | DEBUG | total books available
+2026-06-14 17:34:25,027 | INFO | returns total books available
+2026-06-14 17:34:35,144 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:34:40,932 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:34:41,641 | DEBUG | total books
+2026-06-14 17:34:41,681 | INFO | returns count all books
+2026-06-14 17:34:41,681 | DEBUG | total books available
+2026-06-14 17:34:41,702 | INFO | returns total books available
+2026-06-14 17:34:52,412 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:34:52,522 | DEBUG | total books
+2026-06-14 17:34:52,560 | INFO | returns count all books
+2026-06-14 17:34:52,561 | DEBUG | total books available
+2026-06-14 17:34:52,587 | INFO | returns total books available
+2026-06-14 17:34:57,163 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:36:00,733 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:36:04,192 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:36:27,110 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:36:29,280 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:37:02,341 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:37:06,106 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:37:10,171 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:37:12,813 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:37:16,227 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:37:16,404 | DEBUG | total books
+2026-06-14 17:37:16,511 | INFO | returns count all books
+2026-06-14 17:37:16,512 | DEBUG | total books available
+2026-06-14 17:37:16,537 | INFO | returns total books available
+2026-06-14 17:37:24,815 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:37:24,910 | DEBUG | total books
+2026-06-14 17:37:24,941 | INFO | returns count all books
+2026-06-14 17:37:24,941 | DEBUG | total books available
+2026-06-14 17:37:24,975 | INFO | returns total books available
+2026-06-14 17:37:33,121 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:37:47,337 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:37:47,446 | DEBUG | total books
+2026-06-14 17:37:47,506 | INFO | returns count all books
+2026-06-14 17:37:59,905 | DEBUG | total books
+2026-06-14 17:37:59,942 | INFO | returns count all books
+2026-06-14 17:38:00,974 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:38:03,049 | DEBUG | total books
+2026-06-14 17:38:03,152 | INFO | returns count all books
+2026-06-14 17:38:03,152 | DEBUG | total books available
+2026-06-14 17:38:03,172 | INFO | returns total books available
+2026-06-14 17:38:22,961 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:38:23,074 | DEBUG | total books
+2026-06-14 17:38:23,170 | INFO | returns count all books
+2026-06-14 17:38:23,170 | DEBUG | total books available
+2026-06-14 17:38:23,190 | INFO | returns total books available
+2026-06-14 17:38:28,662 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:39:21,249 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:39:23,068 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:39:25,285 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:39:26,892 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:39:31,255 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:39:32,054 | DEBUG | total books
+2026-06-14 17:39:32,169 | INFO | returns count all books
+2026-06-14 17:39:32,169 | DEBUG | total books available
+2026-06-14 17:39:32,192 | INFO | returns total books available
+2026-06-14 17:40:25,221 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:40:33,322 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:40:33,399 | DEBUG | total books
+2026-06-14 17:40:33,430 | INFO | returns count all books
+2026-06-14 17:40:33,430 | DEBUG | total books available
+2026-06-14 17:40:33,447 | INFO | returns total books available
+2026-06-14 17:40:40,401 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:40:44,213 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:40:48,533 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:40:48,616 | DEBUG | total books
+2026-06-14 17:40:48,726 | INFO | returns count all books
+2026-06-14 17:40:48,726 | DEBUG | total books available
+2026-06-14 17:40:48,750 | INFO | returns total books available
+2026-06-14 17:41:07,616 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:41:14,030 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:41:14,111 | DEBUG | total books
+2026-06-14 17:41:14,143 | INFO | returns count all books
+2026-06-14 17:41:14,143 | DEBUG | total books available
+2026-06-14 17:41:20,273 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:43:58,829 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:44:00,568 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:44:04,169 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:44:06,345 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:44:09,601 | DEBUG | total books
+2026-06-14 17:44:09,716 | INFO | returns count all books
+2026-06-14 17:44:09,716 | DEBUG | total books available
+2026-06-14 17:44:09,742 | INFO | returns total books available
+2026-06-14 17:44:33,524 | DEBUG | total books
+2026-06-14 17:44:33,556 | INFO | returns count all books
+2026-06-14 17:44:33,556 | DEBUG | total books available
+2026-06-14 17:44:33,586 | INFO | returns total books available
+2026-06-14 17:45:12,032 | DEBUG | total books
+2026-06-14 17:45:12,125 | INFO | returns count all books
+2026-06-14 17:45:12,125 | DEBUG | total books available
+2026-06-14 17:45:12,148 | INFO | returns total books available
+2026-06-14 17:45:20,844 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:45:21,068 | DEBUG | total books
+2026-06-14 17:45:21,100 | INFO | returns count all books
+2026-06-14 17:45:21,100 | DEBUG | total books available
+2026-06-14 17:45:21,119 | INFO | returns total books available
+2026-06-14 17:45:36,128 | DEBUG | total books
+2026-06-14 17:45:36,171 | INFO | returns count all books
+2026-06-14 17:45:36,171 | DEBUG | total books available
+2026-06-14 17:45:36,191 | INFO | returns total books available
+2026-06-14 17:45:39,948 | DEBUG | total books
+2026-06-14 17:45:39,981 | INFO | returns count all books
+2026-06-14 17:45:39,981 | DEBUG | total books available
+2026-06-14 17:45:40,000 | INFO | returns total books available
+2026-06-14 17:45:58,797 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:45:59,313 | DEBUG | total books available
+2026-06-14 17:45:59,382 | INFO | returns total books available
+2026-06-14 17:46:07,352 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:46:11,075 | DEBUG | total books
+2026-06-14 17:46:11,214 | INFO | returns count all books
+2026-06-14 17:46:11,214 | DEBUG | total books available
+2026-06-14 17:46:11,244 | INFO | returns total books available
+2026-06-14 17:47:22,160 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:47:26,296 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:47:28,579 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:47:35,743 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:47:41,150 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:47:47,063 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:47:48,803 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:47:51,109 | DEBUG | total books
+2026-06-14 17:47:51,148 | INFO | returns count all books
+2026-06-14 17:47:51,149 | DEBUG | total books available
+2026-06-14 17:47:51,278 | INFO | returns total books available
+2026-06-14 17:48:14,713 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:48:14,817 | DEBUG | total books
+2026-06-14 17:48:14,922 | INFO | returns count all books
+2026-06-14 17:48:14,922 | DEBUG | total books available
+2026-06-14 17:48:25,228 | DEBUG | total books
+2026-06-14 17:48:25,293 | INFO | returns count all books
+2026-06-14 17:48:25,293 | DEBUG | total books available
+2026-06-14 17:48:30,642 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:48:30,816 | DEBUG | total books
+2026-06-14 17:48:30,848 | INFO | returns count all books
+2026-06-14 17:48:30,848 | DEBUG | total books available
+2026-06-14 17:48:30,888 | INFO | returns total books available
+2026-06-14 17:49:01,112 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:49:03,611 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:49:08,589 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:49:13,434 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:49:15,114 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:49:32,920 | DEBUG | total books
+2026-06-14 17:49:32,974 | INFO | returns count all books
+2026-06-14 17:49:32,975 | DEBUG | total books available
+2026-06-14 17:49:33,024 | INFO | returns total books available
+2026-06-14 17:50:33,412 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:50:36,662 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:50:41,823 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:50:44,919 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:50:45,023 | DEBUG | total books
+2026-06-14 17:50:45,081 | INFO | returns count all books
+2026-06-14 17:50:52,899 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:50:53,166 | DEBUG | total books
+2026-06-14 17:50:53,236 | INFO | returns count all books
+2026-06-14 17:50:53,236 | DEBUG | total books available
+2026-06-14 17:50:53,256 | INFO | returns total books available
+2026-06-14 17:53:16,300 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:53:25,278 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:53:31,869 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:53:34,905 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:53:36,324 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:53:43,601 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:53:46,341 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:53:52,170 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:53:55,109 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:54:03,884 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:54:06,791 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:54:47,469 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:54:52,678 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:54:54,021 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:54:55,353 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:55:02,354 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:55:06,401 | DEBUG | total books
+2026-06-14 17:55:25,388 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:55:25,771 | DEBUG | total books
+2026-06-14 17:55:25,822 | INFO | returns count all books
+2026-06-14 17:55:25,822 | DEBUG | total books available
+2026-06-14 17:55:25,842 | INFO | returns total books available
+2026-06-14 17:55:43,257 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:55:55,155 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:56:02,223 | DEBUG | total books
+2026-06-14 17:56:02,258 | INFO | returns count all books
+2026-06-14 17:56:17,670 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:56:17,764 | DEBUG | total books
+2026-06-14 17:56:21,850 | DEBUG | total books
+2026-06-14 17:56:23,336 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:56:23,973 | DEBUG | total books
+2026-06-14 17:56:24,009 | INFO | returns count all books
+2026-06-14 17:59:18,557 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:59:23,782 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:59:28,149 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:59:30,271 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:59:47,969 | DEBUG | Using selector: SelectSelector
+2026-06-14 17:59:50,312 | DEBUG | total books
+2026-06-14 17:59:50,384 | INFO | returns count all books
+2026-06-14 18:00:00,470 | DEBUG | total books
+2026-06-14 18:00:00,530 | INFO | returns count all books
+2026-06-14 18:00:11,349 | DEBUG | Using selector: SelectSelector
+2026-06-14 18:00:11,482 | DEBUG | total books
+2026-06-14 18:00:11,529 | INFO | returns count all books
