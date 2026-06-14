@@ -33,3 +33,19 @@ class MemberDB:
         conn.close()
         logger.info("returns all members")
         return all_members
+    
+    @staticmethod
+    def get_member_by_id(id: int):
+        logger.debug("User wants to see a member by id")
+        conn = db_connection.connection()
+        cursor = conn.cursor(dictionary=True)
+        sql = "SELECT * FROM members WHERE id = %s;"
+        value = id,
+        cursor.execute(sql, value)
+        member = cursor.fetchone()
+        cursor.close()
+        conn.close()
+        logger.info("The member were successfully displayed")
+        if member:
+            return member
+        raise KeyError
