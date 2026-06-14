@@ -11,3 +11,6 @@ book = book_db.BookDB()
 def count_all_books():
     return book.count_total_books()
 
+@router.get("/books-by-genre")
+def count_by_genre(genre):
+    return book.count_books_by_genre(genre)
