@@ -11,7 +11,8 @@ book = book_db.BookDB()
 @router.post("/")
 def create_book(data: books.Book):
     try:
-        return book.create_book(data.__dict__)
+        book.create_book(data.__dict__)
+        raise HTTPException(status_code=201, detail="Book created successfully")
     except KeyError:
         raise HTTPException(status_code=422, detail="genre is unique")
 
