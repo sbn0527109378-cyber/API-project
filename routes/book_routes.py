@@ -12,3 +12,6 @@ book = book_db.BookDB()
 def create_book(data: books.Book):
     return book.create_book(data.__dict__)
 
+@router.get("/")
+def get_all_books():
+    return book.get_all_books()
