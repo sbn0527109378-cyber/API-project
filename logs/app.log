@@ -1413,3 +1413,8 @@
 2026-06-14 23:15:25,314 | DEBUG | User wants to create a new book
 2026-06-14 23:15:25,352 | WARNING | User adds a new book to mysql
 2026-06-14 23:15:25,365 | INFO | The new book was added successfully
+2026-06-14 23:23:14,531 | DEBUG | Using selector: SelectSelector
+2026-06-14 23:23:18,193 | DEBUG | User wants to update a book
+2026-06-14 23:23:18,244 | WARNING | User updating a book to mysql
+2026-06-14 23:23:18,249 | INFO | The book was updated successfully
+2026-06-14 23:24:13,285 | DEBUG | Using selector: SelectSelector
