@@ -20,14 +20,14 @@ def create_tables_books_and_members():
     author                  VARCHAR(50)             NOT NULL,
     genre                   ENUM("Fiction", "Non-Fiction", "Science", "History", "Other")           NOT NULL,
     is_available            BOOLEAN DEFAULT TRUE    NOT NULL,
-    borrowed_by_member_id   INT DEFAULT NULL)"""
+    borrowed_by_member_id   INT DEFAULT NULL);"""
 
     sql2 = """CREATE TABLE IF NOT EXISTS members(
     id                  INT                     AUTO_INCREMENT PRIMARY KEY,
     name                VARCHAR(50)             NOT NULL,
     email               VARCHAR(50)             UNIQUE NOT NULL,
     is_active           BOOLEAN DEFAULT TRUE    NOT NULL,
-    total_borroes       INT DEFAULT 0)"""
+    total_borroes       INT DEFAULT 0);"""
 
     cursor.execute(sql1)
     cursor.execute(sql2)
@@ -36,4 +36,3 @@ def create_tables_books_and_members():
 
     cursor.close()
     conn.close()
-create_tables_books_and_members()
