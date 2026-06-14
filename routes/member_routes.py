@@ -26,3 +26,7 @@ def member_by_id(id):
     except Exception as e:
         logger.error(e)
         raise HTTPException(status_code=400, detail=f"{e}")
+    
+@router.put("/{id}")
+def update_members(id: int, body: members.Member):
+    return member.update_bmember(id, body)
