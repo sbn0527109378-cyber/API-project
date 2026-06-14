@@ -10,7 +10,10 @@ book = book_db.BookDB()
 
 @router.post("/")
 def create_book(data: books.Book):
-    return book.create_book(data.__dict__)
+    try:
+        return book.create_book(data.__dict__)
+    except KeyError:
+        raise HTTPException(status_code=422, detail="genre is unique")
 
 @router.get("/")
 def get_all_books():
@@ -30,3 +33,7 @@ def book_by_id(id: int):
 @router.put("/{id}")
 def update_books(id: int, body: books.Book):
     return book.update_book(id, body)
+
+@router.get("/{member_id}")
+def count_borrows_by_member(member_id: int):
+    return book.count_active_borrows_by_member(member_id)
