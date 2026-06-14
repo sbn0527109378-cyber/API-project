@@ -1,0 +1,5 @@
+2026-06-14 12:14:21,475 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:14:22,998 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:14:33,210 | DEBUG | User wants to create a new book
+2026-06-14 12:14:33,315 | WARNING | User adds a new book to mysql
+2026-06-14 12:14:33,327 | INFO | The new book was added successfully
