@@ -21,4 +21,15 @@ class MemberDB:
         logger.info("new member created successfully")
         return "new member created successfully"
     
-   
+    @staticmethod
+    def get_all_members():
+        logger.debug("all members")
+        conn = db_connection.connection()
+        cursor = conn.cursor(dictionary=True)
+        sql = "SELECT * FROM members;"
+        cursor.execute(sql)
+        all_members = cursor.fetchall()
+        cursor.close()
+        conn.close()
+        logger.info("returns all members")
+        return all_members
