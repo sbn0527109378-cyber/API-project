@@ -928,3 +928,10 @@
 2026-06-14 18:27:42,874 | DEBUG | Using selector: SelectSelector
 2026-06-14 18:27:43,596 | DEBUG | total books
 2026-06-14 18:27:43,670 | INFO | returns count all books
+2026-06-14 18:39:54,213 | DEBUG | Using selector: SelectSelector
+2026-06-14 18:40:25,766 | DEBUG | count books by genre
+2026-06-14 18:40:44,853 | DEBUG | Using selector: SelectSelector
+2026-06-14 18:40:47,932 | DEBUG | count books by genre
+2026-06-14 18:40:47,983 | INFO | returns count books by genre
+2026-06-14 18:41:08,531 | DEBUG | count books by genre
+2026-06-14 18:41:08,658 | INFO | returns count books by genre

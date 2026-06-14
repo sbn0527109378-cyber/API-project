@@ -84,7 +84,7 @@ class BookDB:
 
     @staticmethod
     def count_total_books():
-        logger.debug("total books")
+        logger.debug("count books")
         conn = db_connection.connection()
         cursor = conn.cursor()
         sql = "SELECT COUNT(*) FROM books;"
@@ -98,6 +98,19 @@ class BookDB:
         count_all_books += cursor.fetchone()
         cursor.close()
         conn.close()
-        logger.info("returns count all books")
+        logger.info("returns count books")
         return count_all_books
     
+    @staticmethod
+    def count_books_by_genre(genre):
+        logger.debug("count books by genre")
+        conn = db_connection.connection()
+        cursor = conn.cursor(dictionary=True)
+        sql = "SELECT COUNT(*) FROM books WHERE genre = %s;"
+        value = genre,
+        cursor.execute(sql, value)
+        count_books_by_genre = cursor.fetchall()
+        cursor.close()
+        conn.close()
+        logger.info("returns count books by genre")
+        return count_books_by_genre
