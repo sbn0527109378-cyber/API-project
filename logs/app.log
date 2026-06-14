@@ -1385,3 +1385,12 @@
 2026-06-14 23:04:18,033 | WARNING | User adds a new book to mysql
 2026-06-14 23:04:18,061 | INFO | The new book was added successfully
 2026-06-14 23:04:25,511 | DEBUG | User wants to create a new book
+2026-06-14 23:07:12,510 | DEBUG | Using selector: SelectSelector
+2026-06-14 23:07:14,332 | DEBUG | User wants to see a book by id
+2026-06-14 23:07:14,382 | INFO | The book were successfully displayed
+2026-06-14 23:07:20,651 | DEBUG | User wants to see a book by id
+2026-06-14 23:07:20,692 | INFO | The book were successfully displayed
+2026-06-14 23:07:20,693 | ERROR | id not found
+2026-06-14 23:08:28,402 | DEBUG | Using selector: SelectSelector
+2026-06-14 23:09:33,159 | DEBUG | Using selector: SelectSelector
+2026-06-14 23:10:06,894 | DEBUG | Using selector: SelectSelector

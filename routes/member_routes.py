@@ -12,3 +12,6 @@ router = APIRouter()
 def create_member(data: members.Member):
     return member.create_member(data)
 
+@router.get("/")
+def all_members():
+    return member.get_all_members()
