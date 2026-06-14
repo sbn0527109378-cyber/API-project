@@ -26,3 +26,7 @@ def book_by_id(id: int):
     except Exception as e:
         logger.error(e)
         raise HTTPException(status_code=400, detail=f"{e}")
+    
+@router.put("/{id}")
+def update_books(id: int, body: books.Book):
+    return book.update_book(id, body)
