@@ -28,8 +28,24 @@ class BookDB:
         cursor = conn.cursor(dictionary=True)
         sql = "SELECT * FROM books"
         cursor.execute(sql)
-        data = cursor.fetchall()
+        all_books = cursor.fetchall()
         cursor.close()
         conn.close()
         logger.info("The books were successfully displayed")
-        return data
+        return all_books
+    
+    @staticmethod
+    def get_book_by_id(id: int):
+        logger.debug("User wants to see a book by id")
+        conn = db_connection.connection()
+        cursor = conn.cursor(dictionary=True)
+        sql = "SELECT * FROM books WHERE id = %s"
+        value = id,
+        cursor.execute(sql, value)
+        book = cursor.fetchone()
+        cursor.close()
+        conn.close()
+        logger.info("The book were successfully displayed")
+        if book:
+            return book
+        raise KeyError

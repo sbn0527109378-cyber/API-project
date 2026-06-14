@@ -56,3 +56,175 @@
 2026-06-14 12:42:05,982 | DEBUG | Using selector: SelectSelector
 2026-06-14 12:42:12,429 | DEBUG | User wants to see all books
 2026-06-14 12:42:12,475 | INFO | The books were successfully displayed
+2026-06-14 12:50:08,374 | DEBUG | Using selector: SelectSelector
+2026-06-14 13:00:44,210 | DEBUG | Using selector: SelectSelector
+2026-06-14 13:01:07,669 | DEBUG | Using selector: SelectSelector
+2026-06-14 13:01:39,040 | DEBUG | Using selector: SelectSelector
+2026-06-14 13:01:52,490 | DEBUG | Using selector: SelectSelector
+2026-06-14 13:31:46,512 | DEBUG | Using selector: SelectSelector
+2026-06-14 13:31:49,400 | DEBUG | Using selector: SelectSelector
+2026-06-14 13:32:02,809 | DEBUG | Using selector: SelectSelector
+2026-06-14 13:33:21,093 | DEBUG | Using selector: SelectSelector
+2026-06-14 13:33:23,576 | DEBUG | User wants to see a book by id
+2026-06-14 13:33:30,933 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:33:48,450 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:33:50,010 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:34:26,554 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:34:28,397 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:35:10,082 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:35:12,148 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:35:13,944 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:35:43,525 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:35:52,230 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:36:07,686 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:36:38,783 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:36:40,118 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:38:06,034 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:38:28,049 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:38:47,119 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:38:50,454 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:38:53,816 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:38:57,238 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:39:00,943 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:39:11,414 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:39:22,082 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:39:40,407 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:40:12,206 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:40:19,955 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:40:39,567 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:41:09,200 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:41:10,801 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:41:15,596 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:41:17,008 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:41:18,385 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:41:20,194 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:41:31,499 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:41:42,228 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:42:01,939 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:42:08,054 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:42:34,049 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:43:39,603 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:43:47,654 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:44:30,431 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:44:31,824 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:44:34,314 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:44:41,031 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:44:44,463 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:44:58,585 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:45:00,004 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:45:10,653 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:45:16,332 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:47:33,338 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:48:12,559 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:48:46,423 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:48:51,803 | DEBUG | User wants to see a book by id
+2026-06-14 14:49:13,151 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:49:17,721 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:49:28,225 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:49:43,238 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:49:43,334 | DEBUG | User wants to see a book by id
+2026-06-14 14:49:50,748 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:49:53,378 | DEBUG | User wants to see a book by id
+2026-06-14 14:50:16,829 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:50:18,206 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:50:24,896 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:50:26,977 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:50:28,382 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:50:28,768 | DEBUG | User wants to see a book by id
+2026-06-14 14:50:28,799 | DEBUG | AAA
+2026-06-14 14:51:44,604 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:51:54,289 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:52:26,750 | DEBUG | User wants to see a book by id
+2026-06-14 14:52:49,349 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:52:49,538 | DEBUG | User wants to see a book by id
+2026-06-14 14:52:49,568 | DEBUG | AAA
+2026-06-14 14:52:59,310 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:53:15,302 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:53:21,887 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:53:29,221 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:53:34,887 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:53:36,600 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:53:41,920 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:53:42,108 | DEBUG | User wants to see a book by id
+2026-06-14 14:53:42,148 | DEBUG | AAA
+2026-06-14 14:53:52,756 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:54:35,083 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:54:36,985 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:54:37,155 | DEBUG | User wants to see a book by id
+2026-06-14 14:54:46,297 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:55:06,742 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:55:18,503 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:55:22,198 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:55:24,312 | DEBUG | User wants to see a book by id
+2026-06-14 14:55:31,956 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:55:58,845 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:55:59,542 | DEBUG | User wants to see a book by id
+2026-06-14 14:56:37,586 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:56:42,193 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:56:44,156 | DEBUG | User wants to see a book by id
+2026-06-14 14:56:49,409 | DEBUG | User wants to see a book by id
+2026-06-14 14:56:50,641 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:56:57,903 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:56:59,840 | DEBUG | User wants to see a book by id
+2026-06-14 14:56:59,882 | INFO | The book were successfully displayed
+2026-06-14 14:57:19,588 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:57:23,519 | DEBUG | User wants to see a book by id
+2026-06-14 14:57:23,573 | INFO | The book were successfully displayed
+2026-06-14 14:57:29,390 | DEBUG | User wants to see a book by id
+2026-06-14 14:57:29,486 | INFO | The book were successfully displayed
+2026-06-14 14:57:37,967 | DEBUG | User wants to see a book by id
+2026-06-14 14:57:38,021 | INFO | The book were successfully displayed
+2026-06-14 14:59:00,612 | DEBUG | Using selector: SelectSelector
+2026-06-14 14:59:05,788 | DEBUG | User wants to see a book by id
+2026-06-14 14:59:05,937 | INFO | The book were successfully displayed
+2026-06-14 14:59:15,181 | DEBUG | Using selector: SelectSelector
+2026-06-14 15:00:52,726 | DEBUG | Using selector: SelectSelector
+2026-06-14 15:01:32,361 | DEBUG | Using selector: SelectSelector
+2026-06-14 15:01:56,836 | DEBUG | Using selector: SelectSelector
+2026-06-14 15:01:58,670 | DEBUG | Using selector: SelectSelector
+2026-06-14 15:02:03,074 | DEBUG | Using selector: SelectSelector
+2026-06-14 15:02:04,775 | DEBUG | Using selector: SelectSelector
+2026-06-14 15:02:07,722 | DEBUG | Using selector: SelectSelector
+2026-06-14 15:02:10,595 | DEBUG | Using selector: SelectSelector
+2026-06-14 15:02:13,027 | DEBUG | Using selector: SelectSelector
+2026-06-14 15:02:18,906 | DEBUG | Using selector: SelectSelector
+2026-06-14 15:02:31,240 | DEBUG | Using selector: SelectSelector
+2026-06-14 15:02:37,938 | DEBUG | Using selector: SelectSelector
+2026-06-14 15:02:45,344 | DEBUG | Using selector: SelectSelector
+2026-06-14 15:02:48,755 | DEBUG | User wants to see a book by id
+2026-06-14 15:02:48,788 | INFO | The book were successfully displayed
+2026-06-14 15:04:20,972 | DEBUG | Using selector: SelectSelector
+2026-06-14 15:04:27,865 | DEBUG | Using selector: SelectSelector
+2026-06-14 15:04:29,869 | DEBUG | Using selector: SelectSelector
+2026-06-14 15:04:32,741 | DEBUG | Using selector: SelectSelector
+2026-06-14 15:04:33,772 | DEBUG | Using selector: SelectSelector
+2026-06-14 15:04:44,107 | DEBUG | Using selector: SelectSelector
+2026-06-14 15:04:51,768 | DEBUG | Using selector: SelectSelector
+2026-06-14 15:04:52,794 | DEBUG | Using selector: SelectSelector
+2026-06-14 15:04:58,733 | DEBUG | Using selector: SelectSelector
+2026-06-14 15:05:01,005 | DEBUG | Using selector: SelectSelector
+2026-06-14 15:05:03,699 | DEBUG | Using selector: SelectSelector
+2026-06-14 15:05:26,413 | DEBUG | Using selector: SelectSelector
+2026-06-14 15:05:27,840 | DEBUG | Using selector: SelectSelector
+2026-06-14 15:05:29,195 | DEBUG | Using selector: SelectSelector
+2026-06-14 15:05:33,251 | DEBUG | User wants to see a book by id
+2026-06-14 15:05:33,315 | INFO | The book were successfully displayed
+2026-06-14 15:05:33,315 | ERROR | id not found
+2026-06-14 15:08:17,281 | DEBUG | Using selector: SelectSelector
+2026-06-14 15:08:18,968 | DEBUG | User wants to see a book by id
+2026-06-14 15:08:19,019 | INFO | The book were successfully displayed
+2026-06-14 15:08:24,966 | DEBUG | User wants to see a book by id
+2026-06-14 15:08:25,077 | INFO | The book were successfully displayed
+2026-06-14 15:08:25,078 | ERROR | id not found
+2026-06-14 15:09:21,159 | DEBUG | User wants to see all books
+2026-06-14 15:09:21,209 | INFO | The books were successfully displayed
+2026-06-14 15:09:26,851 | DEBUG | User wants to see a book by id
+2026-06-14 15:09:26,898 | INFO | The book were successfully displayed
+2026-06-14 15:09:31,910 | DEBUG | User wants to see a book by id
+2026-06-14 15:09:31,961 | INFO | The book were successfully displayed
+2026-06-14 15:09:31,961 | ERROR | id not found
+2026-06-14 15:09:51,216 | DEBUG | User wants to see a book by id
+2026-06-14 15:09:51,250 | INFO | The book were successfully displayed
+2026-06-14 15:09:51,250 | ERROR | id not found
+2026-06-14 15:10:06,030 | DEBUG | User wants to see all books
+2026-06-14 15:10:06,074 | INFO | The books were successfully displayed
