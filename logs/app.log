@@ -1273,3 +1273,66 @@
 2026-06-14 20:16:28,972 | DEBUG | User wants to update is_active=True
 2026-06-14 20:16:29,003 | WARNING | User updating is_active=True to mysql
 2026-06-14 20:16:29,013 | INFO | The member was updated successfully
+2026-06-14 20:23:28,073 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:23:50,192 | DEBUG | increase the borrow by 1
+2026-06-14 20:23:50,267 | WARNING | User updating increase the borrow by 1 to mysql
+2026-06-14 20:24:16,753 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:24:19,080 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:24:21,342 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:24:22,780 | DEBUG | increase the borrow by 1
+2026-06-14 20:24:22,847 | WARNING | User updating increase the borrow by 1 to mysql
+2026-06-14 20:24:30,350 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:24:32,335 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:25:07,907 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:25:10,989 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:25:22,346 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:25:32,439 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:25:36,360 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:25:38,385 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:25:42,486 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:25:47,815 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:25:51,744 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:25:56,830 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:26:01,445 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:26:20,368 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:26:22,354 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:26:23,889 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:26:25,286 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:26:32,024 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:26:34,166 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:26:40,841 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:26:47,781 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:26:53,450 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:26:55,910 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:26:57,262 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:27:06,760 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:27:09,100 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:27:10,766 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:27:19,680 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:27:22,523 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:27:24,376 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:27:30,631 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:27:36,699 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:27:40,755 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:28:08,223 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:28:09,751 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:28:11,632 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:28:13,186 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:28:17,337 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:28:21,213 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:28:29,181 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:28:35,856 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:28:44,737 | DEBUG | increase the borrow by 1
+2026-06-14 20:29:00,168 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:29:00,314 | DEBUG | increase the borrow by 1
+2026-06-14 20:29:22,247 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:29:24,679 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:29:26,863 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:29:28,472 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:29:28,598 | DEBUG | increase the borrow by 1
+2026-06-14 20:29:41,182 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:29:53,968 | DEBUG | Using selector: SelectSelector
+2026-06-14 20:29:56,165 | DEBUG | increase the borrow by 1
+2026-06-14 20:29:56,233 | WARNING | User updating increase the borrow by 1 to mysql
+2026-06-14 20:29:56,249 | INFO | The borrow was updated successfully
+2026-06-14 20:30:11,723 | DEBUG | Using selector: SelectSelector
