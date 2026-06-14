@@ -49,3 +49,18 @@ class MemberDB:
         if member:
             return member
         raise KeyError
+    
+    @staticmethod
+    def update_bmember(id, body):
+        logger.debug("User wants to update a member")
+        conn = db_connection.connection()
+        cursor = conn.cursor(dictionary=True)
+        sql = "UPDATE members SET name = %s, email = %s WHERE id = %s;"
+        values = body.name, body.email, id
+        logger.warning("User updating a member to mysql")
+        cursor.execute(sql, values)
+        conn.commit()
+        cursor.close()
+        conn.close()
+        logger.info("The member was updated successfully")
+        return "The member was updated successfully"
