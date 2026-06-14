@@ -10,7 +10,7 @@ class BookDB:
     def create_book(data: books.Book):
         logger.debug("User wants to create a new book")
         conn = db_connection.connection()
-        cursor = conn.cursor()
+        cursor = conn.cursor(dictionary=True)
         sql = "INSERT INTO books (title, author, genre) VALUES (%s, %s, %s)"
         values = data["title"], data["author"], data["genre"]
         logger.warning("User adds a new book to mysql")
@@ -19,3 +19,17 @@ class BookDB:
         cursor.close()
         conn.close()
         logger.info("The new book was added successfully")
+        return "The new book was added successfully"
+
+    @staticmethod
+    def get_all_books():
+        logger.debug("User wants to see all books")
+        conn = db_connection.connection()
+        cursor = conn.cursor(dictionary=True)
+        sql = "SELECT * FROM books"
+        cursor.execute(sql)
+        data = cursor.fetchall()
+        cursor.close()
+        conn.close()
+        logger.info("The books were successfully displayed")
+        return data

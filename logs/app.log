@@ -3,3 +3,56 @@
 2026-06-14 12:14:33,210 | DEBUG | User wants to create a new book
 2026-06-14 12:14:33,315 | WARNING | User adds a new book to mysql
 2026-06-14 12:14:33,327 | INFO | The new book was added successfully
+2026-06-14 12:22:13,984 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:22:17,311 | DEBUG | User wants to create a new book
+2026-06-14 12:22:30,431 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:22:32,675 | DEBUG | User wants to create a new book
+2026-06-14 12:22:38,231 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:22:39,698 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:22:44,195 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:22:45,935 | DEBUG | User wants to create a new book
+2026-06-14 12:22:45,987 | WARNING | User adds a new book to mysql
+2026-06-14 12:22:46,035 | INFO | The new book was added successfully
+2026-06-14 12:25:27,280 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:25:47,336 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:26:32,247 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:26:51,688 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:26:55,480 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:27:05,094 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:27:08,929 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:27:11,148 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:27:14,115 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:27:25,689 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:27:28,288 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:27:30,419 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:27:34,571 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:27:44,105 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:28:01,986 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:28:19,897 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:28:36,221 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:28:37,592 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:30:44,106 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:30:53,358 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:31:16,919 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:34:16,998 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:34:20,579 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:34:26,799 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:34:32,348 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:34:34,034 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:34:58,575 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:35:08,163 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:35:13,875 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:35:43,586 | DEBUG | User wants to see all books
+2026-06-14 12:38:44,206 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:38:46,307 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:39:06,926 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:39:09,076 | DEBUG | User wants to see all books
+2026-06-14 12:41:40,991 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:41:45,847 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:41:48,328 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:41:54,262 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:41:56,078 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:41:58,902 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:42:05,982 | DEBUG | Using selector: SelectSelector
+2026-06-14 12:42:12,429 | DEBUG | User wants to see all books
+2026-06-14 12:42:12,475 | INFO | The books were successfully displayed
