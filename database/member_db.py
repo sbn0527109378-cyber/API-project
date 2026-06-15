@@ -114,3 +114,23 @@ class MemberDB:
         logger.info("The borrow was updated successfully")
         return "The borrow was updated successfully"
     
+    @staticmethod
+    def get_top_member():
+        logger.debug("get top member")
+        conn = db_connection.connection()
+        cursor = conn.cursor(dictionary=True)
+        sql = "SELECT id, total_borroes FROM members;"
+        cursor.execute(sql)
+        all_total_borroes = cursor.fetchall()
+        cursor.close()
+        conn.close()
+        maxi = None
+        id = None
+        for borrow in all_total_borroes:
+            if maxi is None or borrow["total_borroes"] > maxi:
+                maxi = borrow["total_borroes"]
+                id = borrow["id"]
+        logger.info("returns count books member id")
+        if not maxi == 0:
+            return {"id": id, "total_borroes":maxi}
+        raise KeyError

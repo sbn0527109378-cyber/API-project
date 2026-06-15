@@ -1587,3 +1587,74 @@
 2026-06-15 11:42:57,614 | DEBUG | count borrowed books
 2026-06-15 11:42:57,638 | INFO | returns count borrowed books
 2026-06-15 12:04:53,003 | DEBUG | Using selector: SelectSelector
+2026-06-15 12:24:40,149 | DEBUG | Using selector: SelectSelector
+2026-06-15 12:24:53,982 | DEBUG | get top member
+2026-06-15 12:24:54,040 | INFO | returns count books member id
+2026-06-15 12:25:33,374 | DEBUG | User wants to create a new member
+2026-06-15 12:25:33,402 | WARNING | creating a member
+2026-06-15 12:25:33,413 | INFO | new member created successfully
+2026-06-15 12:25:40,325 | DEBUG | User wants to create a new member
+2026-06-15 12:25:40,352 | WARNING | creating a member
+2026-06-15 12:25:40,990 | DEBUG | User wants to create a new member
+2026-06-15 12:25:41,020 | WARNING | creating a member
+2026-06-15 12:26:32,030 | DEBUG | Using selector: SelectSelector
+2026-06-15 12:26:50,417 | DEBUG | User wants to create a new member
+2026-06-15 12:26:50,451 | WARNING | creating a member
+2026-06-15 12:26:50,457 | INFO | new member created successfully
+2026-06-15 12:26:55,321 | DEBUG | User wants to create a new member
+2026-06-15 12:26:55,350 | WARNING | creating a member
+2026-06-15 12:26:55,357 | INFO | new member created successfully
+2026-06-15 12:26:58,134 | DEBUG | User wants to create a new member
+2026-06-15 12:26:58,156 | WARNING | creating a member
+2026-06-15 12:26:58,161 | INFO | new member created successfully
+2026-06-15 12:27:37,009 | DEBUG | get top member
+2026-06-15 12:27:37,033 | INFO | returns count books member id
+2026-06-15 12:28:33,430 | DEBUG | Using selector: SelectSelector
+2026-06-15 12:28:39,281 | DEBUG | get top member
+2026-06-15 12:28:39,315 | INFO | returns count books member id
+2026-06-15 12:29:10,882 | DEBUG | Using selector: SelectSelector
+2026-06-15 12:29:12,312 | DEBUG | Using selector: SelectSelector
+2026-06-15 12:29:13,425 | DEBUG | get top member
+2026-06-15 12:29:13,461 | INFO | returns count books member id
+2026-06-15 12:29:38,311 | DEBUG | Using selector: SelectSelector
+2026-06-15 12:29:43,690 | DEBUG | Using selector: SelectSelector
+2026-06-15 12:30:46,018 | DEBUG | Using selector: SelectSelector
+2026-06-15 12:31:43,714 | DEBUG | Using selector: SelectSelector
+2026-06-15 12:32:00,381 | DEBUG | Using selector: SelectSelector
+2026-06-15 12:32:13,997 | DEBUG | Using selector: SelectSelector
+2026-06-15 12:32:23,117 | DEBUG | Using selector: SelectSelector
+2026-06-15 12:32:27,350 | DEBUG | Using selector: SelectSelector
+2026-06-15 12:32:35,189 | DEBUG | Using selector: SelectSelector
+2026-06-15 12:32:36,588 | DEBUG | Using selector: SelectSelector
+2026-06-15 12:32:45,619 | DEBUG | Using selector: SelectSelector
+2026-06-15 12:33:01,207 | DEBUG | Using selector: SelectSelector
+2026-06-15 12:33:04,978 | DEBUG | Using selector: SelectSelector
+2026-06-15 12:33:08,291 | DEBUG | Using selector: SelectSelector
+2026-06-15 12:33:10,498 | DEBUG | Using selector: SelectSelector
+2026-06-15 12:33:13,761 | DEBUG | get top member
+2026-06-15 12:33:13,803 | INFO | returns count books member id
+2026-06-15 12:33:44,630 | DEBUG | Using selector: SelectSelector
+2026-06-15 12:33:45,156 | DEBUG | get top member
+2026-06-15 12:33:45,216 | INFO | returns count books member id
+2026-06-15 12:34:07,755 | DEBUG | Using selector: SelectSelector
+2026-06-15 12:34:29,715 | DEBUG | Using selector: SelectSelector
+2026-06-15 12:34:31,181 | DEBUG | get top member
+2026-06-15 12:34:31,207 | INFO | returns count books member id
+2026-06-15 12:35:17,127 | DEBUG | get top member
+2026-06-15 12:35:17,156 | INFO | returns count books member id
+2026-06-15 12:36:24,651 | DEBUG | get top member
+2026-06-15 12:36:24,683 | INFO | returns count books member id
+2026-06-15 12:36:59,471 | DEBUG | Using selector: SelectSelector
+2026-06-15 12:37:03,123 | DEBUG | Using selector: SelectSelector
+2026-06-15 12:37:14,465 | DEBUG | Using selector: SelectSelector
+2026-06-15 12:37:16,558 | DEBUG | Using selector: SelectSelector
+2026-06-15 12:37:19,924 | DEBUG | Using selector: SelectSelector
+2026-06-15 12:37:21,775 | DEBUG | Using selector: SelectSelector
+2026-06-15 12:37:24,357 | DEBUG | Using selector: SelectSelector
+2026-06-15 12:37:40,874 | DEBUG | Using selector: SelectSelector
+2026-06-15 12:38:13,869 | DEBUG | Using selector: SelectSelector
+2026-06-15 12:38:18,686 | DEBUG | Using selector: SelectSelector
+2026-06-15 12:38:23,565 | DEBUG | Using selector: SelectSelector
+2026-06-15 12:38:24,886 | DEBUG | Using selector: SelectSelector
+2026-06-15 12:38:28,529 | DEBUG | Using selector: SelectSelector
+2026-06-15 12:38:38,573 | DEBUG | Using selector: SelectSelector

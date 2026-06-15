@@ -1,11 +1,12 @@
-from fastapi import APIRouter
-from database import book_db
+from fastapi import APIRouter, HTTPException
+from database import book_db, member_db
 from logs.logger_config import get_logger
 
 logger = get_logger(__name__)
 
 router = APIRouter()
 book = book_db.BookDB()
+member = member_db.MemberDB()
 
 @router.get("/summary")
 def count_all_books():
@@ -23,4 +24,7 @@ def count_active_members():
 
 @router.get("/top-member")
 def get_top_member():
-    pass
+    try:
+        return member.get_top_member()
+    except Exception as e:
+        raise HTTPException(status_code=400, detail=f"{e}")
