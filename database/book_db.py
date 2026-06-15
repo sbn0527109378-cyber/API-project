@@ -172,3 +172,22 @@ class BookDB:
         conn.close()
         logger.info("returns count books member id")
         return count_books_by_genre
+    
+    @staticmethod
+    def increment_borrows(id):
+        logger.debug("increase the borrow by 1")
+        conn = db_connection.connection()
+        cursor = conn.cursor()
+        sql = "SELECT total_borroes FROM members WHERE id = %s;"
+        values = id,
+        cursor.execute(sql, values)
+        borrow = cursor.fetchone()
+        sql1 = "UPDATE members SET total_borroes = %s WHERE id = %s;"
+        values1 = (borrow[0] + 1), id
+        logger.warning("User updating increase the borrow by 1 to mysql")
+        cursor.execute(sql1, values1)
+        conn.commit()
+        cursor.close()
+        conn.close()
+        logger.info("The borrow was updated successfully")
+        return "The borrow was updated successfully"
