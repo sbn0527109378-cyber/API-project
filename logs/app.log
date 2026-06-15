@@ -1586,3 +1586,4 @@
 2026-06-15 11:42:57,614 | INFO | returns count available books
 2026-06-15 11:42:57,614 | DEBUG | count borrowed books
 2026-06-15 11:42:57,638 | INFO | returns count borrowed books
+2026-06-15 12:04:53,003 | DEBUG | Using selector: SelectSelector

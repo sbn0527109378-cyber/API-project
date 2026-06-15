@@ -1,4 +1,4 @@
-from fastapi import APIRouter, HTTPException
+from fastapi import APIRouter
 from database import book_db
 from logs.logger_config import get_logger
 
@@ -16,3 +16,11 @@ def count_all_books():
 @router.get("/books-by-genre")
 def count_by_genre(genre):
     return book.count_books_by_genre(genre)
+
+@router.get("/summary")
+def count_active_members():
+    pass
+
+@router.get("/top-member")
+def get_top_member():
+    pass

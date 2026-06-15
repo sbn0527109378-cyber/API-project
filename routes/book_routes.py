@@ -38,6 +38,18 @@ def book_by_id(id: int):
         logger.error(e)
         raise HTTPException(status_code=400, detail=f"{e}")
 
+@router.put("/{id}/return/{member_id}")
+def set_available(id, val, member_id):
+    pass
+
+@router.put("/{id}/borrow/{member_id}")
+def set_available(id, val, member_id):
+    pass
+
 @router.get("/{member_id}")
 def count_borrows_by_member(member_id: int):
     return book.count_active_borrows_by_member(member_id)
+
+@router.put("/{id}/borrow/{member_id}")
+def count_active_borrows_by_member(member_id):
+    pass
