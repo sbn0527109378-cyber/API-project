@@ -101,16 +101,36 @@ class BookDB:
         sql = "SELECT COUNT(*) FROM books;"
         cursor.execute(sql)
         count_all_books = cursor.fetchone()
-        sql1 = "SELECT SUM(is_available = 1) FROM books;"
-        cursor.execute(sql1)
-        count_all_books += cursor.fetchone()
-        sql2 = "SELECT COUNT(*) FROM books WHERE is_available = 0;"
-        cursor.execute(sql2)
-        count_all_books += cursor.fetchone()
         cursor.close()
         conn.close()
         logger.info("returns count books")
         return count_all_books
+
+    @staticmethod
+    def count_available_books():
+        logger.debug("count available books")
+        conn = db_connection.connection()
+        cursor = conn.cursor()
+        sql = "SELECT SUM(is_available = 1) FROM books;"
+        cursor.execute(sql)
+        count_available_books = cursor.fetchone()
+        cursor.close()
+        conn.close()
+        logger.info("returns count available books")
+        return count_available_books
+    
+    @staticmethod
+    def count_borrowed_books():
+        logger.debug("count borrowed books")
+        conn = db_connection.connection()
+        cursor = conn.cursor()
+        sql = "SELECT COUNT(*) FROM books WHERE is_available = 0;"
+        cursor.execute(sql)
+        count_borrowed_books = cursor.fetchone()
+        cursor.close()
+        conn.close()
+        logger.info("returns count borrowed books")
+        return count_borrowed_books
     
     @staticmethod
     def count_books_by_genre(genre):
