@@ -159,3 +159,16 @@ class BookDB:
         conn.close()
         logger.info("returns count books member id")
         return count_books_by_genre
+    
+    @staticmethod
+    def count_active_members():
+        logger.debug("count active members")
+        conn = db_connection.connection()
+        cursor = conn.cursor()
+        sql = "SELECT COUNT(*) FROM members WHERE is_active = TRUE;"
+        cursor.execute(sql)
+        count_books_by_genre = cursor.fetchone()
+        cursor.close()
+        conn.close()
+        logger.info("returns count books member id")
+        return count_books_by_genre
